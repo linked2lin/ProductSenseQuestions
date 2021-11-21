@@ -2,7 +2,7 @@
 ### **Why treatment group with $10 rewards has a 30% response rate while control group without rewards has a 50% response rate**
 
 ## Framework
-1. Confirm: metrics meaning, if it is a statistically sound and robust finding
+1. Clarify: metrics meaning, if it is a statistically sound and robust finding
 2. Restate the problem with the overall goal statement
 3. Check experiment design: how do users know there is an reward? how do users claim the award? Is the award in cash or store credit?
 4. User experience and characteristics including device, region, language and user id
